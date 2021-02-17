@@ -10,4 +10,3 @@ services:
     container_name: jenkinsDavivienda
     volumes:
       - ./jenkins/jobs:/var/jenkins_home/jobs
-      - ./jenkins2/jobs:/var/jenkins_home
